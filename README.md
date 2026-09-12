@@ -1,5 +1,3 @@
-﻿# kritikomento-lipstick-product-landing-page
-
 # KRITIKOMENTO | Velvet Matte Lipstick Landing Page
 
 ![KRITIKOMENTO Beauty Banner](assets/images/hero-lipstick.png)
@@ -11,15 +9,12 @@ A premium, fully responsive business landing page for **KRITIKOMENTO** — a lux
 ## 📸 Project Preview
 
 ### Desktop View
-
 ![Desktop Preview](assets/screenshots/desktop.png)
 
 ### Features Section
-
 ![Features Section](assets/screenshots/features.png)
 
 ### Shades Showcase
-
 ![Shades Showcase](assets/screenshots/shades.png)
 
 > **Note:** Make sure the image paths match the actual location of your project assets.
@@ -29,7 +24,6 @@ A premium, fully responsive business landing page for **KRITIKOMENTO** — a lux
 ## ✨ Features
 
 ### 🎨 Visual Design
-
 - **Elegant Brand Aesthetic** — Wine, cream, pink, and rose-inspired color palette.
 - **Luxury Typography** — Combination of `Playfair Display` and `DM Sans`.
 - **Satin Background** — Premium textured background for the visual sections.
@@ -39,9 +33,7 @@ A premium, fully responsive business landing page for **KRITIKOMENTO** — a lux
 - **Glass-Morphism Header** — Semi-transparent sticky navigation with scroll effects.
 
 ### 📱 Responsive Design
-
-The landing page is designed to adapt to different screen sizes.
-
+The landing page is designed to adapt to different screen sizes:
 - **Desktop** — Full-width layouts with multi-column grids.
 - **Tablet** — Adaptive two-column layouts.
 - **Mobile** — Single-column layouts with touch-friendly navigation.
@@ -68,23 +60,240 @@ The landing page is designed to adapt to different screen sizes.
 
 ## ⚡ Interactive Functions
 
-### Sticky Header
+* **Sticky Header:** The navigation header remains visible while scrolling and applies a shadow effect to improve readability.
+* **Mobile Hamburger Menu:** On smaller screens, the desktop navigation is replaced with a hamburger menu that can be opened and closed.
+* **Smooth Scrolling:** Navigation links smoothly scroll to their corresponding sections while accounting for the fixed header.
+* **FAQ Accordion:** FAQ items expand and collapse interactively, toggling between `+` and `×` icons.
 
-The navigation header remains visible while scrolling and applies a shadow effect to improve readability.
+---
 
-### Mobile Hamburger Menu
+## 🎨 Design System
 
-On smaller screens, the desktop navigation is replaced with a hamburger menu that can be opened and closed.
+### Color Palette
 
-### Smooth Scrolling
+| Color | Hex | Usage |
+|---|---|---|
+| Wine | `#8f1f32` | Primary brand color, buttons, headings |
+| Wine Dark | `#701525` | Hover states and dark backgrounds |
+| Wine Light | `#a73549` | Accent highlights |
+| Wine Soft | `#f0d6da` | Soft gradients and backgrounds |
+| Pink | `#f8e4e5` | Accent elements, tags, and backgrounds |
+| Pink Light | `#fff6f6` | Section backgrounds |
+| Cream | `#fffdfb` | Main page background |
+| White | `#ffffff` | Cards and content backgrounds |
+| Text | `#211b1d` | Main body text |
+| Muted | `#706669` | Secondary text |
+| Border | `#e7c8cc` | Borders and dividers |
 
-Navigation links smoothly scroll to their corresponding sections while accounting for the fixed header.
+---
 
-### FAQ Accordion
+### Typography
 
-FAQ items expand and collapse interactively.
+#### Headings
+`Playfair Display` — Used for brand headings, section titles, product names, and luxury visual presentation.
 
-The FAQ icon changes between:
+#### Body
+`DM Sans` — Used for paragraphs, navigation, buttons, product information, and supporting content.
 
-```text
-+
+---
+
+## 🎞️ Animation System
+
+Subtle animations improve the visual experience without overwhelming the user:
+
+| Animation | Timing |
+|---|---|
+| **Scroll Reveal** | `0.7s ease` |
+| **Hover** | `0.35s cubic-bezier` |
+| **Floating Product** | `6s loop` |
+| **FAQ Slide** | `0.3s ease` |
+
+---
+
+## 📱 Responsive Breakpoints
+
+| Breakpoint | Target | Main Changes |
+|---|---|---|
+| `> 1024px` | Desktop | Full multi-column layouts |
+| `900px – 1024px` | Small Tablet | Adjusted spacing and sizing |
+| `768px – 900px` | Tablet | Two-column features and testimonials |
+| `420px – 768px` | Mobile | Single-column layout and hamburger menu |
+| `< 420px` | Small Mobile | Optimized typography and spacing |
+
+---
+
+## 🎯 Customization Guide
+
+### Mobile Improvements
+Recommended layout implementations for smaller viewports:
+- Swipeable testimonial cards
+- Horizontally scrollable product shades
+- Sticky mobile "Buy Now" button
+- Bottom navigation for important actions
+- Larger touch targets and mobile-friendly controls
+
+┌──────────────────────────────┐
+│ ☰    KRITIKOMENTO         🛍 │
+├──────────────────────────────┤
+│                              │
+│         HERO PRODUCT         │
+│                              │
+│         Velvet Matte         │
+│           Lipstick           │
+│                              │
+│         [ SHOP NOW ]         │
+│                              │
+├──────────────────────────────┤
+│                              │
+│           FEATURES           │
+│                              │
+│   ✦ Rich Pigment             │
+│   ✦ Velvet Matte             │
+│   ✦ Long-Lasting             │
+│   ✦ Nourishing               │
+│                              │
+├──────────────────────────────┤
+│                              │
+│            SHADES            │
+│                              │
+│     ◀ [ RED ] [ PINK ] ▶     │
+│                              │
+├──────────────────────────────┤
+│                              │
+│           REVIEWS            │
+│                              │
+│           ⭐⭐⭐⭐⭐           │
+│                              │
+├──────────────────────────────┤
+│                              │
+│             FAQ              │
+│                              │
+│   + Question                 │
+│   + Question                 │
+│   + Question                 │
+│                              │
+├──────────────────────────────┤
+│                              │
+│         [ BUY NOW ]          │
+│                              │
+└──────────────────────────────┘
+
+## 🌐 Browser Support
+
+| Browser | Support |
+|---|---|
+| **Google Chrome** | 88+ |
+| **Mozilla Firefox** | 85+ |
+| **Safari** | 14+ |
+| **Microsoft Edge** | 88+ |
+| **Opera** | 74+ |
+| **Internet Explorer** | Unsupported |
+
+---
+
+## 🔐 Security Considerations
+
+The current project is a frontend-only landing page. When converting this into a production e-commerce store, ensure:
+- Passwords, payment credentials, and private API keys are never stored in client-side code.
+- Server-side validation and secure payment gateways (e.g., Stripe, PayPal, GCash, Maya) are utilized.
+- Communications are encrypted via HTTPS with properly configured authentication cookies and rate limiting.
+
+---
+
+## 🚀 Deployment & Structure
+
+### GitHub Pages Setup
+1. Push repository code to GitHub.
+2. Go to **Settings** > **Pages**.
+3. Select your deployment source branch and click **Save**.
+
+### Directory Structure
+repository/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+└── assets/
+    └── images/
+        ├── hero-lipstick.png
+        ├── satin-pink-background.png
+        ├── lipstick-red.png
+        ├── lipstick-pink.png
+        └── lipstick-violet.png
+
+## 🤝 Contributing
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit changes (`git commit -m "Add improved lipstick product section"`).
+4. Push to branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see below for details:
+
+Copyright (c) 2024 KRITIKOMENTO
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+## 👤 Creator
+
+**KRITIKOMENTO** — Contemporary artist, illustrator, and web designer portfolio project.
+
+- **Designed By:** Your Name
+- **Portfolio:** [your-portfolio.example](https://your-portfolio.example)
+- **Email:** your-email@example.com
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+
+---
+
+## 🙏 Acknowledgments
+
+- **Google Fonts:** Playfair Display & DM Sans
+- **Font Awesome:** Interface Icons
+- **Web APIs:** Intersection Observer API for scroll-triggered animations
+
+---
+
+## 📌 Version History & Roadmap
+
+- **v1.0.0 (Current):** Initial landing page, responsive layouts, basic animations, FAQ accordion, static assets.
+- **v1.1.0 (Planned):** Image optimization, enhanced mobile controls, accessibility & SEO metadata.
+- **v2.0.0 (Future):** Full e-commerce stack integration (REST API, Database, Payment Gateways, Order Management).
+
+Frontend (HTML/CSS/JS) ──► REST API ──► Database & Payment Gateway
+
+## ✅ Project Checklist
+
+- [x] Semantic HTML document created
+- [x] Responsive CSS stylesheets integrated
+- [x] Interactive JavaScript functionality added
+- [x] Documentation & media assets verified
+- [ ] Connect production payment infrastructure
+- [ ] Add real product inventory data & backend endpoints
+
+---
+
+<div align="center">
+
+### KRITIKOMENTO
+**Velvet Matte Lipstick Landing Page**
+
+Built with ❤️ using HTML, CSS & JavaScript.
+
+If you found this project useful, consider giving the repository a ⭐!
+
+</div>
