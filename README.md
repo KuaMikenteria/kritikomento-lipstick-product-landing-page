@@ -130,51 +130,51 @@ Recommended layout implementations for smaller viewports:
 - Bottom navigation for important actions
 - Larger touch targets and mobile-friendly controls
 
-┌──────────────────────────────┐ <br >
-│ ☰    KRITIKOMENTO         🛍 │ <br >
-├──────────────────────────────┤ <br >
-│                              │ <br >
-│         HERO PRODUCT         │ <br >
-│                              │ <br >
-│         Velvet Matte         │ <br >
-│           Lipstick           │ <br >
-│                              │ <br >
-│         [ SHOP NOW ]         │ <br >
-│                              │ <br >
-├──────────────────────────────┤ <br >
-│                              │ <br >
-│           FEATURES           │ <br >
-│                              │ <br >
-│   ✦ Rich Pigment             │ <br >
-│   ✦ Velvet Matte             │ <br >
-│   ✦ Long-Lasting             │ <br >
-│   ✦ Nourishing               │ <br >
-│                              │ <br >
-├──────────────────────────────┤ <br >
-│                              │ <br >
-│            SHADES            │ <br >
-│                              │ <br >
-│     ◀ [ RED ] [ PINK ] ▶    │ <br >
-│                              │ <br >
-├──────────────────────────────┤ <br >
-│                              │ <br >
-│           REVIEWS            │ <br >
-│                              │ <br >
-│           ⭐⭐⭐⭐⭐       │ <br >
-│                              │ <br >
-├──────────────────────────────┤ <br >
-│                              │ <br >
-│             FAQ              │ <br >
-│                              │ <br >
-│   + Question                 │ <br >
-│   + Question                 │ <br >
-│   + Question                 │ <br >
-│                              │ <br >
-├──────────────────────────────┤ <br >
-│                              │ <br >
-│         [ BUY NOW ]          │ <br >
-│                              │ <br >
-└──────────────────────────────┘ <br >
+┌──────────────────────────────┐
+│ ☰    KRITIKOMENTO         🛍 │
+├──────────────────────────────┤
+│                              │
+│         HERO PRODUCT         │
+│                              │
+│         Velvet Matte         │
+│           Lipstick           │
+│                              │
+│         [ SHOP NOW ]         │
+│                              │
+├──────────────────────────────┤
+│                              │
+│           FEATURES           │
+│                              │
+│   ✦ Rich Pigment             │
+│   ✦ Velvet Matte             │
+│   ✦ Long-Lasting             │
+│   ✦ Nourishing               │
+│                              │
+├──────────────────────────────┤
+│                              │
+│            SHADES            │
+│                              │
+│     ◀ [ RED ] [ PINK ] ▶     │
+│                              │
+├──────────────────────────────┤
+│                              │
+│           REVIEWS            │
+│                              │
+│           ⭐⭐⭐⭐⭐           │
+│                              │
+├──────────────────────────────┤
+│                              │
+│             FAQ              │
+│                              │
+│   + Question                 │
+│   + Question                 │
+│   + Question                 │
+│                              │
+├──────────────────────────────┤
+│                              │
+│         [ BUY NOW ]          │
+│                              │
+└──────────────────────────────┘
 
 ## 🌐 Browser Support
 
