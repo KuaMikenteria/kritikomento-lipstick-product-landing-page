@@ -162,19 +162,19 @@ The current project is a frontend-only landing page. When converting this into a
 3. Select your deployment source branch and click **Save**.
 
 ### Directory Structure
-repository/
-│
-├── index.html
-├── style.css
-├── README.md
-│
-└── assets/
-    └── images/
-        ├── hero-lipstick.png
-        ├── satin-pink-background.png
-        ├── lipstick-red.png
-        ├── lipstick-pink.png
-        └── lipstick-violet.png
+repository/ <br > 
+│ <br >
+├── index.html <br >
+├── style.css <br >
+├── README.md <br >
+│ <br >
+└── assets/ <br >
+    └── images/ <br >
+        ├── hero-lipstick.png <br >
+        ├── satin-pink-background.png <br >
+        ├── lipstick-red.png <br >
+        ├── lipstick-pink.png <br >
+        └── lipstick-violet.png <br >
 
 ## 🤝 Contributing
 
