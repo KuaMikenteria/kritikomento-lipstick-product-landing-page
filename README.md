@@ -17,8 +17,6 @@ A premium, fully responsive business landing page for **KRITIKOMENTO** — a lux
 ### Shades Showcase
 ![Shades Showcase](assets/screenshots/shades.png)
 
-> **Note:** Make sure the image paths match the actual location of your project assets.
-
 ---
 
 ## ✨ Features
@@ -43,18 +41,18 @@ The landing page is designed to adapt to different screen sizes:
 
 ## 🧩 Core Sections
 
-| Section | Description |
-|---|---|
-| **Hero** | Brand headline, product description, feature badges, and CTA buttons |
-| **Features** | Four key product benefits: Rich Pigment, Velvet Matte, Long-Lasting, and Nourishing |
-| **Benefits** | Three emotional selling points: Confidence, Comfort, and Versatility |
-| **Shades** | Three lipstick variants: Classic Red, Rose Pink, and Dark Violet |
-| **Pricing** | Tiered lipstick packages for 1, 2, or 3 products |
-| **Testimonials** | Four customer reviews with avatars, ratings, and verification badges |
-| **FAQ** | Common questions about sensitive lips, animal testing, longevity, and shade selection |
-| **CTA** | Final "Buy Now" call-to-action section |
-| **Footer** | Trust badges including Free Shipping, Secure Payment, 30-Day Returns, and Cruelty Free |
-| **Copyright** | Brand and designer attribution |
+| Section | Description | <br >
+|---|---| <br >
+| **Hero** | Brand headline, product description, feature badges, and CTA buttons | <br >
+| **Features** | Four key product benefits: Rich Pigment, Velvet Matte, Long-Lasting, and Nourishing | <br >
+| **Benefits** | Three emotional selling points: Confidence, Comfort, and Versatility | <br >
+| **Shades** | Three lipstick variants: Classic Red, Rose Pink, and Dark Violet | <br >
+| **Pricing** | Tiered lipstick packages for 1, 2, or 3 products | <br >
+| **Testimonials** | Four customer reviews with avatars, ratings, and verification badges | <br >
+| **FAQ** | Common questions about sensitive lips, animal testing, longevity, and shade selection | <br >
+| **CTA** | Final "Buy Now" call-to-action section | <br >
+| **Footer** | Trust badges including Free Shipping, Secure Payment, 30-Day Returns, and Cruelty Free | <br >
+| **Copyright** | Brand and designer attribution | <br >
 
 ---
 
