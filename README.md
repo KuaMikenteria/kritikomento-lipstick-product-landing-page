@@ -130,34 +130,7 @@ Recommended layout implementations for smaller viewports:
 - Bottom navigation for important actions
 - Larger touch targets and mobile-friendly controls
 
-+--------------------------------+
-|  ☰   KRITIKOMENTO           🛍️ |
-+--------------------------------+
-|                                |
-|          HERO PRODUCT          |
-|      Velvet Matte Lipstick     |
-|          [ SHOP NOW ]          |
-|                                |
-+--------------------------------+
-|            FEATURES            |
-|   - Rich Pigment               |
-|   - Velvet Matte               |
-|   - Long-Lasting               |
-|   - Nourishing                 |
-+--------------------------------+
-|             SHADES             |
-|     <  [ RED ]  [ PINK ]  >    |
-+--------------------------------+
-|            REVIEWS             |
-|           [*****]              |
-+--------------------------------+
-|              FAQ               |
-|   + Question                   |
-|   + Question                   |
-|   + Question                   |
-+--------------------------------+
-|          [ BUY NOW ]           |
-+--------------------------------+
+---
 
 ## 🌐 Browser Support
 
