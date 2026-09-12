@@ -130,15 +130,34 @@ Recommended layout implementations for smaller viewports:
 - Bottom navigation for important actions
 - Larger touch targets and mobile-friendly controls
 
-graph TD
-    subgraph Mobile Layout Structure
-    A["☰  KRITIKOMENTO  🛍️"] --> B["HERO PRODUCT<br/>Velvet Matte Lipstick<br/>[ SHOP NOW ]"]
-    B --> C["FEATURES<br/>✦ Rich Pigment  ✦ Velvet Matte<br/>✦ Long-Lasting  ✦ Nourishing"]
-    C --> D["SHADES<br/>◀ [ RED ] [ PINK ] ▶"]
-    D --> E["REVIEWS<br/>⭐⭐⭐⭐⭐"]
-    E --> F["FAQ<br/>+ Question<br/>+ Question"]
-    F --> G["[ BUY NOW ]"]
-    end
++--------------------------------+
+|  ☰   KRITIKOMENTO           🛍️ |
++--------------------------------+
+|                                |
+|          HERO PRODUCT          |
+|      Velvet Matte Lipstick     |
+|          [ SHOP NOW ]          |
+|                                |
++--------------------------------+
+|            FEATURES            |
+|   - Rich Pigment               |
+|   - Velvet Matte               |
+|   - Long-Lasting               |
+|   - Nourishing                 |
++--------------------------------+
+|             SHADES             |
+|     <  [ RED ]  [ PINK ]  >    |
++--------------------------------+
+|            REVIEWS             |
+|           [*****]              |
++--------------------------------+
+|              FAQ               |
+|   + Question                   |
+|   + Question                   |
+|   + Question                   |
++--------------------------------+
+|          [ BUY NOW ]           |
++--------------------------------+
 
 ## 🌐 Browser Support
 
