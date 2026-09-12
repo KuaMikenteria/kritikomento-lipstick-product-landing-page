@@ -154,28 +154,6 @@ The current project is a frontend-only landing page. When converting this into a
 
 ---
 
-## 🚀 Deployment & Structure
-
-### GitHub Pages Setup
-1. Push repository code to GitHub.
-2. Go to **Settings** > **Pages**.
-3. Select your deployment source branch and click **Save**.
-
-### Directory Structure
-repository/ <br > 
-│ <br >
-├── index.html <br >
-├── style.css <br >
-├── README.md <br >
-│ <br >
-└── assets/ <br >
-    └── images/ <br >
-        ├── hero-lipstick.png <br >
-        ├── satin-pink-background.png <br >
-        ├── lipstick-red.png <br >
-        ├── lipstick-pink.png <br >
-        └── lipstick-violet.png <br >
-
 ## 🤝 Contributing
 
 1. Fork the repository.
@@ -190,7 +168,7 @@ repository/ <br >
 
 This project is licensed under the MIT License — see below for details:
 
-Copyright (c) 2024 KRITIKOMENTO
+Copyright (c) 2026 KRITIKOMENTO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -206,11 +184,9 @@ copies or substantial portions of the Software.
 
 **KRITIKOMENTO** — Contemporary artist, illustrator, and web designer portfolio project.
 
-- **Designed By:** Your Name
-- **Portfolio:** [your-portfolio.example](https://your-portfolio.example)
-- **Email:** your-email@example.com
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Designed By:** Kim Ruzzel L. Enteria
+- **LinkedIn:** [linkedin.com/in/kim-ruzzel-leron-enteria92]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kim-ruzzel-leron-enteria92/))
+- **GitHub:** [github.com/KuaMikenteria]([https://github.com/yourusername](https://github.com/KuaMikenteria))
 
 ---
 
