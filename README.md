@@ -182,7 +182,7 @@ copies or substantial portions of the Software.
 
 ## 👤 Creator
 
-**KRITIKOMENTO** — Contemporary artist, illustrator, and web designer portfolio project.
+**Kim Ruzzel L. Enteria** — Contemporary artist, illustrator, web designer and developer.
 
 - **Designed By:** Kim Ruzzel L. Enteria
 - **LinkedIn:** [linkedin.com/in/kim-ruzzel-leron-enteria92]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kim-ruzzel-leron-enteria92/))
